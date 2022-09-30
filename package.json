@@ -1,5 +1,6 @@
 {
   "name": "todo-list-react-typescript",
+  "homepage": "https://dmitryweiner.github.io/todo-list-react-typescript/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
